@@ -51,7 +51,6 @@ For transfers:
 - Native Ether (ETH)
 - Plus 30 popular tokens added at launch: list
 - Any other token can be added in coordination with Matter Labs -- talk to us (eventually it will be permissionless, but
-  in the beginning we want to curate the list)
 
 ## Transaction fees
 
